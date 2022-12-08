@@ -1,0 +1,11 @@
+{
+  "name": "usefullapp",
+  "version": "1.0.0",
+  "description": "this is very use full app",
+  "main": "Example.js",  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dipanshu",
+  "license": "ISC"
+}
